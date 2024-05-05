@@ -1,0 +1,36 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 (ID=0x2507)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   31.0.15.3623
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Almahdi\Desktop\myproj\IR strike\Tester_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Almahdi\Desktop\myproj\IR strike\Tester_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Almahdi\Desktop\myproj\IR strike\Tester_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Almahdi\Desktop\myproj\IR strike\Tester_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Almahdi\Desktop\myproj\IR strike\Tester_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Almahdi\Desktop\myproj\IR strike\Tester_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Almahdi\Desktop\myproj\IR strike\Tester_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Almahdi\Desktop\myproj\IR strike\Tester_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.194 seconds
+Platform assembly: C:\Users\Almahdi\Desktop\myproj\IR strike\Tester_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Almahdi\Desktop\myproj\IR strike\Tester_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.562500 ms
+Setting up 10 worker threads for Enlighten.
+  Thread -> id: 4be0 -> priority: 1 
+  Thread -> id: 435c -> priority: 1 
+  Thread -> id: 10f4 -> priority: 1 
+  Thread -> id: 3220 -> priority: 1 
+  Thread -> id: 5238 -> priority: 1 
+  Thread -> id: 5764 -> priority: 1 
+  Thread -> id: 1558 -> priority: 1 
+  Thread -> id: 4df0 -> priority: 1 
+  Thread -> id: 4150 -> priority: 1 
+  Thread -> id: 3ed4 -> priority: 1 
